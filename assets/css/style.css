@@ -1,14 +1,14 @@
-* {
+* {                                                                                                 /* styling of texts boxes */ 
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6;                                                                     /* background of the webpage color*/
 }
 
-.header {
+.header {                                                                                          /* These commands are for the heading on the top left and sub headings for top right, styling and positioning. */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -34,7 +34,7 @@ body {
     
 }
 
-.header div ul {
+.header div ul {                                                                                   /* navigates sub-headings */
     list-style-type: none;
 }
 
@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero {                                                                                             /* evaluate and proportions the cover image and its sizing attributes */     
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -61,7 +61,7 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float-left {                                                                                       /* float used to position the images of the sub-headings. */
     float: left;
     margin-right: 25px;
 }
@@ -78,7 +78,7 @@ p {
 
 }
 
-.benefits {
+.benefits {                                                                                          /* styles the center right strategies and positionings. */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -137,7 +137,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.search-engine-optimization {                                                                          /* styling and positioning of sub-headings detail info */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -164,7 +164,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img {                                                                       /* limits the image to the max height */
     max-height: 200px;
 }
 
@@ -191,7 +191,7 @@ p {
     font-size: 36px;
 }
 
-.footer {
+.footer {                                                                                                /* footer styling and positioning */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
