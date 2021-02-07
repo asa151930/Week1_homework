@@ -14,3 +14,7 @@ CSS Code Screenshots
 ![alt text](assets/images/style2.png)
 ![alt text](assets/images/style3.png)
 ![alt text](assets/images/style4.png)
+
+# Final output of the project
+
+https://asa151930.github.io/Week1_homework/
